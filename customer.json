@@ -2,53 +2,27 @@
     "icms":[
         {
             "id": 1,
-            "code": "1",
-            "description": "PIPES",
-            "status": "A",
-            "inventory_coa": "1010401-WATER METERS",
-            "expenses_coa": "1010301-TECHNICAL EQUIPMENT",
-            "ledgering": "IS LEDGER",
+            "code": "8263310",
+            "name": "Susilawati Ahmad",
+            "postal_add": "No. 2, Jalan Muhibah, Larkin",
+            "status": "A - Connected",
             "has_been_used": 1
         },
         {
             "id": 2,
-            "code": "2",
-            "description": "FITTINGS",
-            "status": "A",
-            "inventory_coa": "1010501-FURNITURE, FITTINGS AND ELECTRICAL EQUIPMENT",
-            "expenses_coa": null,
-            "ledgering": "IS LEDGER",
+            "code": "8263311",
+            "name": "Cikgu Papazola",
+            "postal_add": "Lot P, Jalan Boboiboy, Galaxy",
+            "status": "B - Pending",
             "has_been_used": 2
         },
         {
             "id": 3,
-            "code": "3",
-            "description": "VALVES",
-            "status": "A",
-            "inventory_coa": "1010401-WATER METERS",
-            "expenses_coa": null,
-            "ledgering": "IS LEDGER",
+            "code": "8263312",
+            "name": "Ejen Ali",
+            "postal_add": "Lorong Ali, Mamak Maju, Mata",
+            "status": "A - Connected",
             "has_been_used": 3
-        },
-        {
-            "id": 4,
-            "code": "4",
-            "description": "METER",
-            "status": "A",
-            "inventory_coa": "1060102-INVENTORIES - WATER METERS",
-            "expenses_coa": null,
-            "ledgering": "IS LEDGER",
-            "has_been_used": 4
-        },
-        {
-            "id": 5,
-            "code": "5",
-            "description": "TOOLS & HARDWARE",
-            "status": "A",
-            "inventory_coa": "1060103-INVENTORIES - CONSUMABLES",
-            "expenses_coa": null,
-            "ledgering": "IS LEDGER",
-            "has_been_used": 5
         }
     ]
 }
